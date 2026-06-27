@@ -10,17 +10,14 @@
   </head>
   <body>
     <div class="Margins">
-      <!-- Avatar: solo en la página de inicio -->
       {% if page.url == "/" %}
       <div class="avatar-container">
         <img src="{{ site.baseurl }}/assets/images/avatar.png" alt="Manuel J. Brenes" class="avatar">
       </div>
       {% endif %}
 
-      <!-- Título (siempre visible) -->
       <p class="LatexTitle">{{ page.title }}</p>
 
-      <!-- Enlace "Back to Home" (solo en páginas que no son la home) -->
       {% if page.url != "/" %}
       <p class="back-link">
         <a href="{{ site.baseurl }}/">← Back to Home</a>
@@ -28,7 +25,6 @@
       {% endif %}
 
       {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
-      <!-- {% if page.date %} <p class="LatexDate">{{ page.date }}</p> {% endif %}-->
 
       {% if page.abstract %}<div class="AbstractMargins">
         <p class="LatexAbstract">Abstract</p>
