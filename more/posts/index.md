@@ -12,4 +12,3 @@ abstract: "Thoughts and reflections born while I study or research. Zero AI. You
     </li>
   {% endfor %}
 </ul>
-EOF
