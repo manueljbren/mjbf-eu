@@ -1,0 +1,32 @@
+---
+layout: default
+title: "About Me"
+---
+
+<p class="BodyText">
+I come from Seville, Andalusia, where I currently live. While I have traveled the world and completed research stays abroad, my home has always been here, in the heart of the south.
+</p>
+
+<p class="BodyText">
+I am deeply passionate about expanding the boundaries of knowledge in the fields I study. I find fulfillment in reaching the frontiers of human thought and understanding how it shapes the law. My work is driven by curiosity and a commitment to excellence.
+</p>
+
+<p class="BodyText">
+In my free time, I always carry a Moleskine notebook to capture ideas and the book I am currently reading. I enjoy training and have a deep appreciation for the classical arts, which provide me with balance and inspiration.
+</p>
+
+<p class="BodyText">
+I have been drawn to knowledge and technology from a very young age. I was an avid reader who devoured everything I could find. Soon after, I developed a strong vocation for the defense of others and a commitment to the service of justice. This dedication, together with consistent effort, has shaped who I am today.
+</p>
+
+<p class="BodyText">
+I studied Law at the University of Seville, where I also took part in several specialized courses. I went on to complete a Master’s in Legal Practice, a Master’s in Family Law, and a Master’s in European Union Law. I then pursued a PhD in Private International Law, focusing on international succession. I have also specialized in litigation and Spanish succession law. More recently, I had the privilege of studying at the Hague Academy of International Law.
+</p>
+
+<p class="BodyText">
+I developed my legal practice as an attorney in the procedural department of the law firm Andersen, and later at the technology company Indra. After that, I decided to work independently while continuing my research.
+</p>
+
+<p class="BodyText">
+My current projects focus on succession law and its many branches, where I continue to explore and contribute to the field.
+</p>

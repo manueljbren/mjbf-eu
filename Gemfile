@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'jekyll', '~> 4.4.0'
+gem 'liquid', '~> 4.0.4'
+gem 'csv'
+gem 'bigdecimal'
+gem 'base64'
+gem 'mutex_m'
+gem 'webrick'

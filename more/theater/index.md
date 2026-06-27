@@ -1,0 +1,41 @@
+---
+layout: default
+title: "Theater"
+abstract: "My passion for the stage and the craft of acting."
+---
+
+<p class="Section">1. My Journey on Stage</p>
+
+<p class="BodyText">
+I have been acting for several years, and the stage has become a second home to me. There is something uniquely transformative about stepping into another character's life and sharing that experience with an audience.
+</p>
+
+<p class="BodyText">
+I believe that theater is not just about delivering lines, but about embodying truth in the moment. That's why I am particularly drawn to <strong>physical roles</strong> — those that demand a deep connection between body, voice, and emotion. I enjoy exploring how movement and gesture can tell a story beyond words.
+</p>
+
+<p class="Section">2. Behind the Lens</p>
+
+<p class="BodyText">
+In addition to the stage, I have developed a <strong>keen eye for the camera</strong>. Whether in front of it or behind it, I understand the nuances of visual storytelling. This sensitivity helps me bring a more cinematic presence to theatrical performances, and vice versa.
+</p>
+
+<p class="BodyText">
+I find that the camera rewards subtlety and precision, while the stage demands presence and projection. Balancing both has enriched my craft and given me a versatile toolset as a performer.
+</p>
+
+<p class="Section">3. Selected Works & Roles</p>
+
+<p class="BodyText">
+Over the years, I have had the opportunity to work on a variety of productions, ranging from classic drama to contemporary pieces. I am proud of every role I have taken on, and I look forward to continuing to grow and challenge myself as an artist.
+</p>
+
+<ul>
+  <li><strong>[Play Title]</strong> — [Role] ([Year])</li>
+  <li><strong>[Play Title]</strong> — [Role] ([Year])</li>
+  <li><strong>[Play Title]</strong> — [Role] ([Year])</li>
+</ul>
+
+<p class="BodyText">
+More details about my past and upcoming performances will be added soon. In the meantime, feel free to reach out if you have any questions or would like to connect.
+</p>

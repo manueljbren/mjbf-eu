@@ -1,0 +1,11 @@
+title: "Manuel Jesús Brenes Flores"
+author: "Manuel Jesús Brenes Flores"
+description: "Manuel Jesús Brenes Flores' Website"
+baseurl: ""
+url: ""
+email: "iuris@mjbf.eu"
+social:
+  instagram: "https://instagram.com/manueljbren"
+  bluesky: "https://bsky.app/profile/manueljbren.bsky.social"
+  mastodon: "https://sciences.social/@manueljbren"
+permalink: /:year/:month/:day/:title/
