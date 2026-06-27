@@ -10,7 +10,8 @@
   </head>
   <body>
     <div class="Margins">
-      {% if page.url == "/" %}
+      <!-- Avatar: solo en la página de inicio (local o en GitHub) -->
+      {% if page.url == "/" or page.url == site.baseurl %}
       <div class="avatar-container">
         <img src="{{ site.baseurl }}/assets/images/avatar.png" alt="Manuel J. Brenes" class="avatar">
       </div>
@@ -18,7 +19,8 @@
 
       <p class="LatexTitle">{{ page.title }}</p>
 
-      {% if page.url != "/" %}
+      <!-- Enlace "Back to Home" (solo en páginas que no son la home) -->
+      {% if page.url != "/" and page.url != site.baseurl %}
       <p class="back-link">
         <a href="{{ site.baseurl }}/">← Back to Home</a>
       </p>
