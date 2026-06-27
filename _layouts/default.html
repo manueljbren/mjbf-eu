@@ -11,20 +11,16 @@
   <body>
     <div class="Margins">
       <!-- Avatar: solo en la página de inicio (local o en GitHub) -->
-      {% if page.url == "/" or page.url == site.baseurl %}
       <div class="avatar-container">
         <img src="https://manueljbren.github.io/mjbf-eu/assets/images/avatar.png" alt="Manuel J. Brenes" class="avatar">
       </div>
-      {% endif %}
 
       <p class="LatexTitle">{{ page.title }}</p>
 
       <!-- Enlace "Back to Home" (solo en páginas que no son la home) -->
-      {% if page.url != "/" and page.url != site.baseurl %}
       <p class="back-link">
         <a href="https://manueljbren.github.io/mjbf-eu/">← Back to Home</a>
       </p>
-      {% endif %}
 
       {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
 
