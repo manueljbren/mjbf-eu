@@ -11,9 +11,11 @@
   <body>
     <div class="Margins">
       <!-- Avatar: solo en la página de inicio (local o en GitHub) -->
+      {% if page.url == "/" or page.url == site.baseurl %}
       <div class="avatar-container">
         <img src="https://manueljbren.github.io/mjbf-eu/assets/images/avatar.png" alt="Manuel J. Brenes" class="avatar">
       </div>
+      {% endif %}
 
       <p class="LatexTitle">{{ page.title }}</p>
 
