@@ -7,7 +7,7 @@ abstract: "Thoughts and reflections born while I study or research. Zero AI. You
 <ul class="posts-flex">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
     </li>
   {% endfor %}
