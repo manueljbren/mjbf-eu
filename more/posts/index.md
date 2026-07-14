@@ -1,14 +1,5 @@
 ---
 layout: default
 title: "Posts about PIL"
-abstract: "Thoughts and reflections born while I study or research. Zero AI. You can also find me on <a href='https://orcid.org/0009-0007-3934-8994' target='_blank' rel='noopener noreferrer'>ORCID</a>, <a href='https://dialnet.unirioja.es/servlet/autor?codigo=7231187' target='_blank' rel='noopener noreferrer'>Dialnet</a> or <a href='https://linkedin.com/in/manueljbren' target='_blank' rel='noopener noreferrer'>LinkedIn</a>."
+abstract: "Estuve pensando durante bastante tiempo cómo podría compartir algunos thoughts and reflections born while I study or research, finalmente he llegado a la conclusión de que andar posteando en diferentes plataformas conlleva un gasto de tiempo demasiado valioso; en sí mísma la pertenencia en estas plataformas ya de por sí conlleva esta tendencia a la infoxicación que no me agrada especialmente, así que he decidido trabajar en local -o mejor dicho- simplemente para mí. Las publicaciones científicas podéis encontrarlas en <a href='https://orcid.org/0009-0007-3934-8994' target='_blank' rel='noopener noreferrer'>ORCID</a>, <a href='https://dialnet.unirioja.es/servlet/autor?codigo=7231187' target='_blank' rel='noopener noreferrer'>Dialnet</a> or <a href='https://linkedin.com/in/manueljbren' target='_blank' rel='noopener noreferrer'>LinkedIn</a>, pero seguramente tenga más presencia en <a href='https://manueljbren.bsky.social' target='_blank' rel='noopener noreferrer'>Bluesky</a> o <a href='https://sciences.social/@manueljbren' target='_blank' rel='noopener noreferrer'>Mastodon</a>."
 ---
-
-<ul class="posts-flex">
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
-    </li>
-  {% endfor %}
-</ul>
