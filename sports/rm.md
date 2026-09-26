@@ -25,16 +25,21 @@ Here you can find my personal records in the main lifts and CrossFit benchmarks.
     </tr>
     <tr>
       <td><strong>Back Squat</strong></td>
+      <td>130</td>
+      <td>2026-09-25</td>
+      <td>3RM</td>
+  </tr>
+      <td><strong>Back Squat</strong></td>
       <td>100</td>
       <td>2025-03-30</td>
       <td>25RM</td>
   </tr>
-      <tr>
-      <td><strong>Back Squat</strong></td>
-      <td>60</td>
-      <td>2022-03-30</td>
-      <td>100RM</td>
-  </tr>
+<tr>
+   <td><strong>Back Squat</strong></td>
+    <td>60</td>
+    <td>2022-03-30</td>
+    <td>100RM</td>
+</tr>
     <tr>
       <td><strong>Deadlift</strong></td>
       <td>197,5</td>
