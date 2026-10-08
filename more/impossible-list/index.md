@@ -66,9 +66,6 @@ It's a kind of bucket list, but with a twist: it's ever-evolving, and it pushes 
 <div class="goal-category">
   <p class="BodyText"><strong>Fitness & Health</strong></p>
   <ul>
-    <li>Train at least 3x per week for 1 month [2008]</li>
-    <li>Train at least 3x per week for 3 months [2008]</li>
-    <li>Train at least 3x per week for 6 months [2008]</li>
     <li>Train at least 3x per week for 1 year [2008]</li>
     <li>Complete a Marathon (42km)</li>
     <li>Run 10km in under 50 minutes</li>
@@ -88,7 +85,6 @@ It's a kind of bucket list, but with a twist: it's ever-evolving, and it pushes 
     <li>Perform in 5 theater plays [2026]</li>
     <li>Perform in 10 theater plays</li>
     <li>Play a leading role in a play</li>
-    <li>Direct a theater play</li>
   </ul>
 </div>
 
@@ -105,12 +101,8 @@ It's a kind of bucket list, but with a twist: it's ever-evolving, and it pushes 
 <div class="goal-category">
   <p class="BodyText"><strong>Writing & Publishing</strong></p>
   <ul>
-    <li>Write a book [2024]</li>
     <li>Publish a book on Amazon [2024]</li>
-    <li>Write a self-published eBook [2024]</li>
     <li>Publish a scientific article [2026]</li>
-    <li>Maintain a blog for 1 year [2026]</li>
-    <li>Maintain a blog for 5 years</li>
   </ul>
 </div>
 
@@ -123,11 +115,7 @@ It's a kind of bucket list, but with a twist: it's ever-evolving, and it pushes 
 <div class="goal-category">
   <p class="BodyText"><strong>Education</strong></p>
   <ul>
-    <li>Finish my Bachelor's degree in Law [2018]</li>
-    <li>Finish my Master's degree in Legal Practice [2020]</li>
-    <li>Finish my Master's degree in Family Law [2022]</li>
-    <li>Finish my Master's degree in European Union Law [2025]</li>
-    <li>Finish my PhD in Private International Law [2026]</li>
+    <li>Finish my PhD [2026]</li>
     <li>Study at the Hague Academy of International Law [2026]</li>
   </ul>
 </div>
